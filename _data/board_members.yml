@@ -1,0 +1,19 @@
+- name: Steve Johnson
+  title: President
+  phone: (816) 524-7910
+  email: sajarcher3@hotmail.com
+- name: Rob Gannon
+  title: Vice President
+  phone: (314) 322-6856
+  email: rgannonfamily@att.net
+- name: Ellen Buhr
+  title: Treasurer
+  email: ln_brrr1@sbcglobal.net
+- name: Pete Zanoni
+  title: Secretary
+  phone: (816) 804-8275
+  email: petemona@sbcglobal.net
+- name: Brendon Collier
+  title: Member at Large
+  phone: (913) 485-6993
+  email: brendon@brendoncollier.com
