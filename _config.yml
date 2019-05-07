@@ -175,7 +175,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: UA-139748334-1
 
 
 
